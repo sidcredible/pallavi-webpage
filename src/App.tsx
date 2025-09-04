@@ -49,7 +49,7 @@ function App() {
     <div className="min-h-screen bg-white text-gray-900">
       {/* Enhanced Hero Section with Side Layout */}
       <section ref={heroRef} className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50">
-        <div className="max-w-7xl mx-auto px-4 py-12">
+        <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center min-h-screen">
             {/* Content Side */}
             <div className="space-y-8">
